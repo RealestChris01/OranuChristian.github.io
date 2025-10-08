@@ -41,7 +41,7 @@ section {
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
     color: #007bff;
     font-weight: 700;
 }
@@ -70,4 +70,10 @@ footer {
     margin-top: 20px;
     color: #fff;
     background-color: #333;
+}
+
+.hero p {
+padding-right: 5px;
+padding-letf:5px;
+text-align:  justify;
 }
